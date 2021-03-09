@@ -1,6 +1,6 @@
 # Test-1---iOS-Dev
 
-NOTE: Execute it on iPhone 11 or greater
+NOTE: Execute it on Xcode 12.3 or greater, simulate it iPhone 11 or greater
 
 Eduardo Cardona c0777368
 
